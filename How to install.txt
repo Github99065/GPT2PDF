@@ -1,0 +1,5 @@
+Download TamperMonkey
+Chrome link: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+Other Browsers link: https://www.tampermonkey.net/
+
+Open this link in your browser and click install script https://greasyfork.org/en/scripts/496802-gpt-to-pdf
